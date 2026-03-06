@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-05",
+  "updates": [
+    {
+      "name": "CollectivIQ",
+      "description": "Multi-model AI consensus platform that queries 10+ LLMs simultaneously (GPT-5.3, Claude Opus, Gemini, etc.), compares outputs, and synthesizes a reliability-weighted answer — reducing hallucinations from 14.2% to 3.8% in benchmarks.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.collectiviq.com",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Notte Anything API",
+      "description": "Turns any browser workflow into a production-ready API endpoint. Describe what you need done in a browser, and Notte's agent engineers a callable API — no browser instance needed at runtime. Great for automating sites without public APIs.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.notte.cc",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Krisp Accent Conversion",
+      "description": "Listener-side real-time accent conversion that clarifies accented English at the phoneme level with <200ms latency. Works bidirectionally — an industry first — across Indian, Filipino, Latin American, African, and Mandarin accents.",
+      "category": "ai-productivity",
+      "platforms": ["mac", "windows"],
+      "url": "https://krisp.ai/ai-accent-conversion/",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "NOVA",
+      "description": "AI coding tool that goes beyond suggestions — it writes files from goal descriptions, automatically detects and fixes runtime errors, and refactors code on demand. Aims to eliminate the run-fail-fix-repeat loop.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://www.producthunt.com/products/nova-18",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Anima OnBrand Vibe Coding",
+      "description": "Design-aware AI coding platform that syncs your Figma design system so anyone on the team can vibe-code apps that stay on-brand. IBM-backed, converts Figma designs to production-ready code with AI assistance.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://www.animaapp.com",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Google Pomelli (Photoshoot Update)",
+      "description": "Google Labs' brand content generator now features AI Photoshoot — transforms ordinary product photos into studio-quality shots using Nano Banana image gen. Analyzes your website to build a 'Business DNA' profile for on-brand marketing assets.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://pomelli.me",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Woven",
+      "description": "AI-powered personal trainer for your relationship, built on attachment theory. Like Duolingo for communication skills — 5-minute daily lessons with guided interactive conversations to build real relationship skills.",
+      "category": "mobile-app",
+      "platforms": ["ios"],
+      "url": "https://apps.apple.com/us/app/woven-relationships/id6743807048",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Personal AI Memory",
+      "description": "Captures and stores your chat history from various AI platforms (ChatGPT, Claude, etc.) so you can build persistent context across sessions and tools. Addresses the fragmented AI memory problem.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.memoryplugin.com",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Gmail Gemini AI Features",
+      "description": "Major Gmail upgrade powered by Gemini 3 — AI Overviews answer questions about your inbox, Help Me Write drafts emails, smart Suggested Replies, and a new AI Inbox filter that surfaces what matters most.",
+      "category": "ai-productivity",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://blog.google/products-and-platform/products/gmail/gmail-is-entering-the-gemini-era/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Alibaba Amap AI 3D Tours",
+      "description": "AI-powered service that lets restaurants create immersive 3D digital showcases by simply uploading standard photos or videos. Built on Alibaba's visual AI model, lowering marketing costs for local businesses.",
+      "category": "ai-image-video",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://www.alibabagroup.com/en-US/document-1945578421555822592",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}

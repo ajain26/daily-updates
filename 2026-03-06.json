@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-06",
+  "updates": [
+    {
+      "name": "GPT-5.3 Instant",
+      "description": "OpenAI's latest model update reduces hallucinations by 27%, cuts unnecessary refusals, and delivers richer web search results. Available to all ChatGPT users and via API.",
+      "category": "ai-chatbot",
+      "platforms": ["web", "ios", "android", "mac", "windows"],
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Perplexity Computer",
+      "description": "An autonomous multi-agent system that plans, builds, and executes complex workflows using 19 AI models. It creates sub-agents on the fly and can run tasks for hours or months.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.perplexity.ai/hub/blog/introducing-perplexity-computer",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Notion Custom Agents",
+      "description": "Autonomous AI agents that automate recurring work across Notion, Slack, Mail, and Calendar. Set a trigger or schedule and they run 24/7. Free to try through May 2026.",
+      "category": "ai-productivity",
+      "platforms": ["web", "ios", "android", "mac", "windows"],
+      "url": "https://www.notion.com/blog/introducing-custom-agents",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Gmail AI (Gemini 3)",
+      "description": "Gmail's Gemini-powered overhaul adds AI Overviews that summarize long threads, smart compose with Help Me Write, one-click Suggested Replies, and an AI Inbox that filters clutter.",
+      "category": "ai-productivity",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Wispr Flow for Android",
+      "description": "AI voice-to-text that auto-edits your speech, removes filler words, fixes grammar, and writes 4x faster than typing. Now free with unlimited dictation on Android, supporting 100+ languages.",
+      "category": "ai-productivity",
+      "platforms": ["android", "ios", "mac", "windows"],
+      "url": "https://wisprflow.ai/android",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Google Pixel March Drop (Circle to Search)",
+      "description": "Circle to Search now recognizes multiple objects simultaneously — identify every plant, character, or dish on screen at once. Plus Magic Cue integrates Gemini suggestions directly into chats.",
+      "category": "ai-image-video",
+      "platforms": ["android"],
+      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Pomelli Photoshoot",
+      "description": "Google Labs' latest Pomelli feature transforms ordinary product photos into studio-quality shots using Nano Banana image generation. Also added Pomelli Animate for one-click video from static content.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://pomelli.me",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Samsung Galaxy S26 AI (Now Nudge + Photo Assist)",
+      "description": "Now Nudge proactively suggests actions based on screen context (auto-pull photos when a friend asks, detect calendar conflicts). Photo Assist lets you edit images with natural language descriptions.",
+      "category": "ai-productivity",
+      "platforms": ["android"],
+      "url": "https://www.samsung.com/us/smartphones/galaxy-s26/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Parsewise",
+      "description": "AI agents that parse entire document corpora at scale for underwriting, claims, and diligence workflows. Cross-references thousands of docs in one run with full source traceability. YC-backed.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.parsewise.ai",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Supa Social",
+      "description": "Self-hosted community platform with built-in auth, moderation, roles, and feeds. A ready-to-deploy foundation for micro-communities so you own your platform instead of renting it.",
+      "category": "web-app",
+      "platforms": ["web"],
+      "url": "https://www.producthunt.com/products/supa-social-by-once-ui",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
