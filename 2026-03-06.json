@@ -2,8 +2,17 @@
   "date": "2026-03-06",
   "updates": [
     {
+      "name": "Cursor Automations",
+      "description": "Brand-new agentic coding system that auto-launches AI agents triggered by commits, Slack messages, or timers — enabling continuous code review, security audits, and incident response without prompt-and-monitor loops. Hundreds of automations running per hour.",
+      "category": "ai-coding",
+      "platforms": ["mac", "windows"],
+      "url": "https://cursor.com/",
+      "isFree": false,
+      "trending": true
+    },
+    {
       "name": "GPT-5.3 Instant",
-      "description": "OpenAI's latest model update reduces hallucinations by 27%, cuts unnecessary refusals, and delivers richer web search results. Available to all ChatGPT users and via API.",
+      "description": "OpenAI's new default ChatGPT model with 26.8% fewer hallucinations, better web search integration woven into contextual answers, and a less preachy conversational tone. Free for all ChatGPT users.",
       "category": "ai-chatbot",
       "platforms": ["web", "ios", "android", "mac", "windows"],
       "url": "https://openai.com/index/gpt-5-3-instant/",
@@ -11,8 +20,17 @@
       "trending": true
     },
     {
+      "name": "Google Flow Unified Workspace",
+      "description": "Google merged Flow, Whisk, and ImageFX into one AI creative studio with Veo 3.1 video generation, lasso-based natural language editing, and full project migration from Whisk/ImageFX.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://labs.google/flow/about",
+      "isFree": true,
+      "trending": true
+    },
+    {
       "name": "Perplexity Computer",
-      "description": "An autonomous multi-agent system that plans, builds, and executes complex workflows using 19 AI models. It creates sub-agents on the fly and can run tasks for hours or months.",
+      "description": "Autonomous multi-agent system that plans, builds, and executes complex workflows using 19 AI models. Creates sub-agents on the fly and can run tasks for hours or months.",
       "category": "ai-productivity",
       "platforms": ["web"],
       "url": "https://www.perplexity.ai/hub/blog/introducing-perplexity-computer",
@@ -29,6 +47,15 @@
       "trending": true
     },
     {
+      "name": "CompactifAI App",
+      "description": "Run advanced AI models fully offline on your phone with no cloud dependency. Built for mobile professionals and privacy-sensitive orgs, with optional cloud API fallback.",
+      "category": "ai-productivity",
+      "platforms": ["ios", "android"],
+      "url": "https://finance.yahoo.com/news/multiverse-computing-launches-compactifai-app-080000821.html",
+      "isFree": true,
+      "trending": false
+    },
+    {
       "name": "Gmail AI (Gemini 3)",
       "description": "Gmail's Gemini-powered overhaul adds AI Overviews that summarize long threads, smart compose with Help Me Write, one-click Suggested Replies, and an AI Inbox that filters clutter.",
       "category": "ai-productivity",
@@ -38,26 +65,8 @@
       "trending": true
     },
     {
-      "name": "Wispr Flow for Android",
-      "description": "AI voice-to-text that auto-edits your speech, removes filler words, fixes grammar, and writes 4x faster than typing. Now free with unlimited dictation on Android, supporting 100+ languages.",
-      "category": "ai-productivity",
-      "platforms": ["android", "ios", "mac", "windows"],
-      "url": "https://wisprflow.ai/android",
-      "isFree": true,
-      "trending": false
-    },
-    {
-      "name": "Google Pixel March Drop (Circle to Search)",
-      "description": "Circle to Search now recognizes multiple objects simultaneously — identify every plant, character, or dish on screen at once. Plus Magic Cue integrates Gemini suggestions directly into chats.",
-      "category": "ai-image-video",
-      "platforms": ["android"],
-      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
-      "isFree": true,
-      "trending": false
-    },
-    {
-      "name": "Pomelli Photoshoot",
-      "description": "Google Labs' latest Pomelli feature transforms ordinary product photos into studio-quality shots using Nano Banana image generation. Also added Pomelli Animate for one-click video from static content.",
+      "name": "Pomelli Photoshoot + Animate",
+      "description": "Google Labs' Pomelli now transforms product photos into studio-quality shots with Nano Banana image gen, plus one-click video animations via Veo 3.1. Completely free.",
       "category": "ai-image-video",
       "platforms": ["web"],
       "url": "https://pomelli.me",
@@ -65,29 +74,20 @@
       "trending": false
     },
     {
-      "name": "Samsung Galaxy S26 AI (Now Nudge + Photo Assist)",
-      "description": "Now Nudge proactively suggests actions based on screen context (auto-pull photos when a friend asks, detect calendar conflicts). Photo Assist lets you edit images with natural language descriptions.",
+      "name": "Wispr Flow for Android",
+      "description": "AI voice-to-text with auto-editing, filler word removal, and 100+ language translation. Now on Android with a floating bubble interface and 30% faster dictation from infra rewrite.",
       "category": "ai-productivity",
-      "platforms": ["android"],
-      "url": "https://www.samsung.com/us/smartphones/galaxy-s26/",
+      "platforms": ["android", "ios", "mac", "windows"],
+      "url": "https://wisprflow.ai/",
       "isFree": true,
-      "trending": true
-    },
-    {
-      "name": "Parsewise",
-      "description": "AI agents that parse entire document corpora at scale for underwriting, claims, and diligence workflows. Cross-references thousands of docs in one run with full source traceability. YC-backed.",
-      "category": "ai-productivity",
-      "platforms": ["web"],
-      "url": "https://www.parsewise.ai",
-      "isFree": false,
       "trending": false
     },
     {
-      "name": "Supa Social",
-      "description": "Self-hosted community platform with built-in auth, moderation, roles, and feeds. A ready-to-deploy foundation for micro-communities so you own your platform instead of renting it.",
-      "category": "web-app",
-      "platforms": ["web"],
-      "url": "https://www.producthunt.com/products/supa-social-by-once-ui",
+      "name": "Google Pixel March Drop — AI Features",
+      "description": "Multi-object recognition in Circle to Search, AI-generated icon styles, Magic Cue for in-chat Gemini suggestions, and Now Playing as a standalone music discovery app.",
+      "category": "ai-productivity",
+      "platforms": ["android"],
+      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
       "isFree": true,
       "trending": false
     }
