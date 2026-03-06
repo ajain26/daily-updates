@@ -1,2 +1,4 @@
 .DS_Store
 *.log
+.git-credentials-daily
+.push-log.txt
