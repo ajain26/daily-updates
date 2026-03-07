@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-07",
+  "updates": [
+    {
+      "name": "GPT-5.4",
+      "description": "OpenAI's most capable frontier model unifies reasoning, coding, and native computer-use into one model. Available as standard, Thinking, and Pro variants with a 1M-token context window and 33% fewer errors than GPT-5.2.",
+      "category": "ai-productivity",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://openai.com/index/introducing-openai-frontier/",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "NotebookLM Cinematic Video Overviews",
+      "description": "Google's NotebookLM now generates fully animated cinematic videos from your notes and documents using Gemini 3, Nano Banana Pro, and Veo 3. Goes far beyond narrated slides into immersive, AI-directed visual storytelling.",
+      "category": "ai-image-video",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://blog.google/innovation-and-ai/products/notebooklm/generate-your-own-cinematic-video-overviews-in-notebooklm/",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Amazon Canvas",
+      "description": "AI-powered dynamic dashboard for Amazon sellers that rebuilds itself with every question. Generates personalized analytics, runs hypothetical scenarios, and surfaces actionable recommendations — sellers accept its suggestions 90% of the time.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.aboutamazon.com/news/innovation-at-amazon/amazon-sellers-canvas-artificial-intelligence",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Notte Anything API",
+      "description": "Describe any browser workflow in plain language and Notte's AI agent turns it into a production-ready API endpoint — no coding required. Solves the problem of sites with no public API by automating browser tasks into callable functions.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://anything.notte.cc/",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "NOVA by Bridgeye",
+      "description": "AI coding assistant that breaks the write-run-fail-fix loop. It writes files from descriptions, auto-heals errors when you run code, refactors on demand, and handles Git — all from your terminal.",
+      "category": "ai-coding",
+      "platforms": ["mac", "windows"],
+      "url": "https://nova.bridgeye.com",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Krisp Listener-Side Accent Conversion",
+      "description": "Real-time accent adaptation that runs on the listener's device, clarifying speech without changing how the speaker sounds to others. Processes audio at the phoneme level with under 200ms latency across Indian, Filipino, Latin American, African, and Chinese accents.",
+      "category": "ai-productivity",
+      "platforms": ["mac", "windows"],
+      "url": "https://krisp.ai/ai-accent-conversion/listener/",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Parsewise",
+      "description": "AI agents that analyze entire document corpora — thousands of PDFs in one run. Cross-references, extracts, and reasons across batches with every output linked to its exact source. Y Combinator-backed, built for underwriting and diligence workflows.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.parsewise.ai/",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Deep Personality",
+      "description": "Take 28 research-backed psychological assessments in under an hour covering personality, attachment, neurodiversity, and values. Get AI-generated analysis of your patterns and blind spots, plus relationship compatibility predictions with specific resolution tips.",
+      "category": "web-app",
+      "platforms": ["web"],
+      "url": "https://www.producthunt.com/products/deep-personality",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Qwen 3.5 Small",
+      "description": "Alibaba's open-source family of compact models (0.8B–9B parameters) with native multimodal capabilities, designed to run on-device. Uses a hybrid architecture combining Gated Delta Networks with sparse MoE, rivaling much larger models.",
+      "category": "ai-coding",
+      "platforms": ["mac", "windows"],
+      "url": "https://huggingface.co/Qwen",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Supa Social",
+      "description": "Production-ready, self-hosted social platform built with Once UI and Supabase. Deploy your own community in minutes with auth, profiles, followers, roles, moderation, notifications, and a flexible multi-format feed — fully customizable and monetizable.",
+      "category": "web-app",
+      "platforms": ["web"],
+      "url": "https://www.producthunt.com/products/supa-social-by-once-ui",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
