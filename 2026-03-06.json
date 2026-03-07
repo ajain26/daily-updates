@@ -2,12 +2,30 @@
   "date": "2026-03-06",
   "updates": [
     {
+      "name": "OpenAI Codex App for Windows",
+      "description": "OpenAI's native desktop coding app lands on Windows with parallel AI agent tasks, PowerShell support, per-task worktrees with diff review, and cross-platform session sync. 500K+ devs were on the waitlist. Paid subscribers get double rate limits through April 2.",
+      "category": "ai-coding",
+      "platforms": ["windows", "mac"],
+      "url": "https://openai.com/index/introducing-the-codex-app/",
+      "isFree": false,
+      "trending": true
+    },
+    {
       "name": "Cursor Automations",
-      "description": "Brand-new agentic coding system that auto-launches AI agents triggered by commits, Slack messages, or timers — enabling continuous code review, security audits, and incident response without prompt-and-monitor loops. Hundreds of automations running per hour.",
+      "description": "Brand-new agentic coding system that auto-launches AI agents triggered by commits, Slack messages, or timers — enabling continuous code review, security audits, and incident response without prompt-and-monitor loops.",
       "category": "ai-coding",
       "platforms": ["mac", "windows"],
       "url": "https://cursor.com/",
       "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "CollectivIQ",
+      "description": "World's first AI consensus platform that simultaneously queries ChatGPT, Claude, Gemini, Grok and up to 10 other LLMs, then synthesizes outputs into one annotated response highlighting where models agree or disagree. Free for 30 days.",
+      "category": "ai-chatbot",
+      "platforms": ["web"],
+      "url": "https://www.collectiviq.com",
+      "isFree": true,
       "trending": true
     },
     {
@@ -47,17 +65,8 @@
       "trending": true
     },
     {
-      "name": "CompactifAI App",
-      "description": "Run advanced AI models fully offline on your phone with no cloud dependency. Built for mobile professionals and privacy-sensitive orgs, with optional cloud API fallback.",
-      "category": "ai-productivity",
-      "platforms": ["ios", "android"],
-      "url": "https://finance.yahoo.com/news/multiverse-computing-launches-compactifai-app-080000821.html",
-      "isFree": true,
-      "trending": false
-    },
-    {
-      "name": "Gmail AI (Gemini 3)",
-      "description": "Gmail's Gemini-powered overhaul adds AI Overviews that summarize long threads, smart compose with Help Me Write, one-click Suggested Replies, and an AI Inbox that filters clutter.",
+      "name": "Gmail AI Overviews (Gemini 3)",
+      "description": "Gmail's biggest update since 2004 — AI Overviews summarize email threads, a new AI Inbox view reshapes email around summaries and to-dos, plus Help Me Write, Suggested Replies, and Proofread features.",
       "category": "ai-productivity",
       "platforms": ["web", "ios", "android"],
       "url": "https://blog.google/products-and-platforms/products/gmail/gmail-is-entering-the-gemini-era/",
@@ -65,26 +74,17 @@
       "trending": true
     },
     {
-      "name": "Pomelli Photoshoot + Animate",
-      "description": "Google Labs' Pomelli now transforms product photos into studio-quality shots with Nano Banana image gen, plus one-click video animations via Veo 3.1. Completely free.",
-      "category": "ai-image-video",
-      "platforms": ["web"],
-      "url": "https://pomelli.me",
-      "isFree": true,
-      "trending": false
-    },
-    {
-      "name": "Wispr Flow for Android",
-      "description": "AI voice-to-text with auto-editing, filler word removal, and 100+ language translation. Now on Android with a floating bubble interface and 30% faster dictation from infra rewrite.",
+      "name": "Timekettle W4 AI Interpreter Earbuds",
+      "description": "AI-powered real-time translation earbuds with bone conduction + dual mic pickup, supporting 43 languages and 96 accents online. 18-hour battery. Debuted at MWC 2026 this week.",
       "category": "ai-productivity",
-      "platforms": ["android", "ios", "mac", "windows"],
-      "url": "https://wisprflow.ai/",
-      "isFree": true,
-      "trending": false
+      "platforms": ["ios", "android"],
+      "url": "https://www.timekettle.co/products/w4-ai-interpreter-earbuds",
+      "isFree": false,
+      "trending": true
     },
     {
-      "name": "Google Pixel March Drop — AI Features",
-      "description": "Multi-object recognition in Circle to Search, AI-generated icon styles, Magic Cue for in-chat Gemini suggestions, and Now Playing as a standalone music discovery app.",
+      "name": "Google Pixel March Drop — AI Icons & Gemini Actions",
+      "description": "Major Pixel update with AI-generated custom icon styles, Gemini app actions for ordering groceries and restaurant recs, upgraded Circle to Search that identifies everything in images, and Now Playing as a standalone app.",
       "category": "ai-productivity",
       "platforms": ["android"],
       "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
