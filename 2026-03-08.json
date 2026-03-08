@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-08",
+  "updates": [
+    {
+      "name": "Google Flow Unified Workspace",
+      "description": "Google merged Flow, Whisk, and ImageFX into a single AI creative workspace for generating, editing, and animating images and videos. Now powered by Nano Banana for image generation and Veo 3.1 for video, it's available free in 140+ countries.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://flow.google.com",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "GPT-5.3 Instant",
+      "description": "OpenAI's latest ChatGPT model launched March 3 with dramatically less verbose responses, up to 26.8% fewer hallucinations, and faster inference. Finally answers your question without a three-paragraph preamble.",
+      "category": "ai-chatbot",
+      "platforms": ["web", "ios", "android", "mac", "windows"],
+      "url": "https://chatgpt.com",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Krisp AI Accent Conversion",
+      "description": "Real-time listener-side accent conversion that makes heavily accented speech easier to understand during calls and meetings, without changing the speaker's natural voice. A game-changer for global remote teams.",
+      "category": "ai-productivity",
+      "platforms": ["web", "mac", "windows"],
+      "url": "https://krisp.ai/ai-accent-conversion/",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Meta AI Shopping Assistant",
+      "description": "Meta is rolling out an AI shopping research feature inside its chatbot that serves product carousels with brand, price, and website info. Leverages data from 3.2 billion daily active users across Facebook and Instagram.",
+      "category": "ai-chatbot",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://www.meta.ai",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Viktor AI Coworker",
+      "description": "An AI coworker that proactively executes tasks on your behalf rather than waiting for commands. Gained 323 upvotes on Product Hunt for its agentic approach to workplace productivity.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://getviktor.com",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Parsewise",
+      "description": "AI-powered document processing tool for handling large piles of documents. Featured in Product Hunt's March 5 newsletter for making bulk document analysis fast and painless.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://parsewise.com",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Qwen3.5 Small",
+      "description": "Alibaba's compact multimodal models (0.8B-9B parameters) offering native multimodal capabilities with significantly less compute. Top Product Hunt launch with 370 upvotes on March 3.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://qwen.ai",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Supa Social",
+      "description": "A self-hosted social media platform that gives you full control of your data. Featured in Product Hunt's March 5 newsletter as a privacy-first alternative to centralized social networks.",
+      "category": "web-app",
+      "platforms": ["web"],
+      "url": "https://supasocial.com",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "ChatOn",
+      "description": "Multi-model AI chatbot that just hit 100 million downloads. Access GPT-5, Gemini 2.5 Pro, Perplexity Sonar, and Claude 4.5 Sonnet under one subscription—the Swiss Army knife of AI chatbots.",
+      "category": "ai-chatbot",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://chaton.ai",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Deep Personality",
+      "description": "Science-backed personality insights tool for individuals and couples. Uses psychological frameworks to deliver actionable self-awareness. Hit 348 upvotes on Product Hunt on March 3.",
+      "category": "web-app",
+      "platforms": ["web"],
+      "url": "https://deeppersonality.com",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
