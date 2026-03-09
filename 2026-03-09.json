@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-09",
+  "updates": [
+    {
+      "name": "Perplexity Computer",
+      "description": "A 'super agent' that coordinates 19 AI models to autonomously execute complex workflows — from building websites to generating datasets. It decomposes high-level objectives into subtasks and delegates to the best model for each one.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.perplexity.ai/computer",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Notion Custom Agents",
+      "description": "Fully autonomous AI agents inside Notion that automate recurring work — task triaging, daily standups, internal Q&A, and inbox zero. Set a trigger or schedule and they run 24/7, integrating with Slack, Figma, and more.",
+      "category": "ai-productivity",
+      "platforms": ["web", "mac", "windows", "ios", "android"],
+      "url": "https://www.notion.com/blog/introducing-custom-agents",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Manus 1.6 Max",
+      "description": "Meta-owned autonomous AI agent with new Max mode for maximum performance, mobile app development capabilities, and a Design View for interactive image creation. Now available in Telegram with WhatsApp and Slack support coming soon.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://manus.im/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Anything API by Notte",
+      "description": "Describe any browser workflow and Notte's agent builds it, deploys it, and hands you a callable API endpoint. Turns websites without public APIs into production-ready, serverless endpoints you can schedule or call programmatically.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://anything.notte.cc/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Seedance 2.0",
+      "description": "ByteDance's multimodal AI video generator that creates 2K resolution videos with native audio and lip-synced dialogue. Uses a dual-branch diffusion transformer to generate audio and video simultaneously from text, image, or audio inputs.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://seed.bytedance.com/en/seedance2_0",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "NOVA by Bridgeye",
+      "description": "AI coding tool that kills the run-fail-fix-repeat loop. Describe your goal and NOVA writes files, auto-heals errors by running and fixing code automatically, and includes a Janitor mode for on-demand refactoring.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://www.producthunt.com/products/nova-18",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Wispr Flow for Android",
+      "description": "AI-powered voice dictation that works system-wide on Android with a floating bubble UI. Supports 100+ languages, 30% faster dictation than previous versions, and includes a new Hinglish model for Hindi-English mixed speech.",
+      "category": "ai-productivity",
+      "platforms": ["android", "mac", "windows", "ios"],
+      "url": "https://wisprflow.ai/android",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Higgsfield AI",
+      "description": "A multi-model creative workspace aggregating Sora 2, Kling 3.0, Veo 3.1, and 5+ other AI video models in one studio. Features Cinema Studio for timeline editing with simulated real optics, 4K upscaling, and sketch-to-video pipelines.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://higgsfield.ai/",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Google Pixel Drop (March 2026)",
+      "description": "Major AI feature update for Pixel: Circle to Search gains multi-object recognition, Gemini can now order groceries and find restaurants, Now Playing becomes a standalone app, and AI-generated icon styles customize your whole display.",
+      "category": "ai-productivity",
+      "platforms": ["android"],
+      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Manus Wide Research",
+      "description": "New research mode from the Manus team that performs deep, multi-source research on complex topics autonomously. Designed for analysts, strategists, and anyone who needs comprehensive research compiled quickly.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://manus.im/blog/introducing-wide-research",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
