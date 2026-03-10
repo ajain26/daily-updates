@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-10",
+  "updates": [
+    {
+      "name": "Perplexity Computer",
+      "description": "A general-purpose digital worker that breaks goals into subtasks, orchestrates 19 AI models (including Opus 4.6, Gemini, Veo 3.1), and executes entire workflows autonomously for hours. Think of it as hiring an AI employee, not just chatting with one.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.perplexity.ai/hub/blog/introducing-perplexity-computer",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Google Antigravity",
+      "description": "Google's agent-first IDE that lets developers dispatch multiple autonomous AI agents to work on different tasks in parallel. Agents generate verifiable artifacts like screenshots, test results, and browser recordings so you can trust the output.",
+      "category": "ai-coding",
+      "platforms": ["mac", "windows"],
+      "url": "https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Anything API by Notte",
+      "description": "Describe any browser workflow in plain English and Notte builds a production-ready API endpoint for it. No public API? No problem. It reverse-engineers the interaction and gives you a callable function you can deploy serverless or schedule on cron.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://anything.notte.cc/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Seedance 2.0",
+      "description": "ByteDance's multimodal video generator creates cinematic 1080p clips up to 15 seconds with native audio, lip-synced dialogue, and multi-shot transitions — no post-production needed. Already causing a stir in Hollywood over copyright concerns.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://seed.bytedance.com/en/seedance2_0",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Pomelli by Google Labs",
+      "description": "Feed it your website URL and Pomelli analyzes your brand DNA — fonts, colors, tone of voice — then generates on-brand social media posts, ad creatives, product photoshoots, and video animations. All free during the beta.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://pomelli.me/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Wispr Flow for Android",
+      "description": "AI dictation that turns messy speech into polished text, now on Android with a floating bubble UI. Supports 100+ languages, auto-removes filler words, and is 30% faster after a full infrastructure rewrite. Free unlimited dictation during early access.",
+      "category": "ai-productivity",
+      "platforms": ["android", "mac", "ios"],
+      "url": "https://wisprflow.ai/android",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "NOVA by Bridgeye",
+      "description": "An AI coding assistant that goes beyond suggestions — it writes files from a goal description, auto-heals runtime errors, refactors on demand, and handles git operations. Install via pip and let it close the debug loop for you.",
+      "category": "ai-coding",
+      "platforms": ["mac", "windows"],
+      "url": "https://www.producthunt.com/products/nova-18",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Nano Banana 2",
+      "description": "Google's upgraded AI image generation model integrated into the Gemini app and Google Lens. Faster processing, improved realism, and the engine behind Pomelli Photoshoot's product imagery capabilities.",
+      "category": "ai-image-video",
+      "platforms": ["web", "android", "ios"],
+      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "GLM-5 by Zhipu AI",
+      "description": "A 744B parameter open-source MoE model (44B active) with a 200K context window and 77.8% on SWE-bench. Released under MIT license and trained on Huawei Ascend chips — a serious open-source challenger to frontier proprietary models.",
+      "category": "ai-chatbot",
+      "platforms": ["web"],
+      "url": "https://llm-stats.com/llm-updates",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Gemini 3.1 Pro",
+      "description": "Google DeepMind's most advanced Pro-tier model features a 1M-token context window, 77.1% on ARC-AGI-2, and multimodal reasoning across text, images, audio, video, and code. A major upgrade for the Gemini ecosystem.",
+      "category": "ai-chatbot",
+      "platforms": ["web", "android", "ios"],
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/",
+      "isFree": true,
+      "trending": true
+    }
+  ]
+}
