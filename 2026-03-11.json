@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-11",
+  "updates": [
+    {
+      "name": "OpenAI Codex Security",
+      "description": "AI-powered code security auditor that scans repositories, builds project-specific threat models, and validates vulnerabilities in sandboxed environments. In beta it scanned 1.2M commits and found 10,561 high-severity issues with an 84% reduction in alert noise.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://openai.com/index/codex-security-now-in-research-preview/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Helios",
+      "description": "Open-source 14B video generation model from Peking University and ByteDance that produces minute-long videos at 19.5 FPS on a single H100 GPU. Supports text-to-video, image-to-video, and video-to-video with only ~6GB VRAM needed. Apache 2.0 licensed.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://github.com/PKU-YuanGroup/Helios",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Kiwi-Edit",
+      "description": "Fully open-source AI video editing framework that supports instruction-guided and reference-guided edits using natural language. Handles style transfers, object removal/replacement, and background swaps at 720p. MIT licensed with models and datasets released.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://github.com/showlab/Kiwi-Edit",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "OpenClaw",
+      "description": "Open-source autonomous AI assistant that lives on your machine and connects to WhatsApp, Slack, Telegram, Discord, and 20+ messaging platforms. It can browse the web, manage files, and run shell commands autonomously. 247K GitHub stars and growing.",
+      "category": "ai-productivity",
+      "platforms": ["mac", "windows", "web", "ios", "android"],
+      "url": "https://openclaw.ai/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Amazon Connect Health",
+      "description": "AWS's HIPAA-eligible AI agent platform for healthcare with five capabilities: patient verification, appointment scheduling, patient history summaries, ambient clinical documentation, and medical coding. UC San Diego Health saved 630 hours/week in early results.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-health-agentic-ai-healthcare/",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Seedance 2.0",
+      "description": "ByteDance's multimodal AI video generator that accepts up to 12 simultaneous inputs (images, video, audio, text) and generates 1080p video with native audio — dialogue, ambient sounds, and effects matched frame by frame. Available via CapCut/Jianying.",
+      "category": "ai-image-video",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://seed.bytedance.com/en/seedance2_0",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Friendware",
+      "description": "Native macOS AI copilot that provides system-wide tab-to-complete in any app. It reads your screen context, understands who you're talking to, and adapts tone per contact. Claims to cut message composition time from 45 seconds to 4 seconds.",
+      "category": "ai-productivity",
+      "platforms": ["mac"],
+      "url": "https://www.friendware.ai/",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Qwen 3.5 Small",
+      "description": "Alibaba's new dense model series with 0.8B, 2B, 4B, and 9B variants. The 9B model matches GPT-OSS-120B (a model 13x its size) on key benchmarks, and the 2B model runs on any recent iPhone in airplane mode with just 4GB of RAM.",
+      "category": "ai-chatbot",
+      "platforms": ["web"],
+      "url": "https://qwenlm.github.io/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "HY-WorldPlay (Tencent Hunyuan)",
+      "description": "Tencent released its RL post-training code for training real-time interactive world models based on HunyuanVideo that run at 24 FPS. Enables the community to build interactive, game-like video environments from AI-generated content.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://github.com/Tencent/HunyuanVideo",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "LTX 2.3",
+      "description": "Open-source short-form video generation model that wins on resolution, frame rate, and integrated audio for production content. Ideal for creating polished short clips with synchronized sound, rivaling proprietary alternatives in quality.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://www.lightricks.com/ltxv",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
