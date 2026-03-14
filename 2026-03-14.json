@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-14",
+  "updates": [
+    {
+      "name": "Perplexity Personal Computer",
+      "description": "A persistent AI agent that runs on your Mac mini, interacting with local files, apps, and online services around the clock. It can monitor triggers, execute proactive tasks, and carry work forward without you being present — with an audit trail and kill switch for safety.",
+      "category": "ai-productivity",
+      "platforms": ["mac"],
+      "url": "https://www.perplexity.ai/computer",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Aident AI Beta 2",
+      "description": "Build and manage open-world automations in plain English across Discord, Slack, X, Shopify, and more. Features 1000+ integrations, 23000+ actions, and MCP compatibility so you can call automations directly from Claude, Cursor, or any AI coding agent.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://aident.ai",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "TestSprite 2.1",
+      "description": "Agentic testing platform that autonomously generates and manages test suites for AI-generated code. Features a 5x faster engine, visual test editing, and IDE integration via MCP — used by nearly 100,000 teams including devs at Google, Apple, and Meta.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://www.testsprite.com",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Seedance 2.0",
+      "description": "ByteDance's multimodal text/image-to-video generator producing cinematic 2K video with native audio, lip-synced dialogue, and multi-shot scene generation in a single pass. Up to 30% faster than v1 with perfect character and style consistency across frames.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://seed.bytedance.com/en/seedance2_0",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Google Gemini for Workspace",
+      "description": "Google rolled out deep Gemini 3.1 integration across Docs, Sheets, Slides, and Drive on March 10 — enabling AI-powered writing, data analysis, presentation generation, and intelligent file search directly inside the apps millions already use.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://workspace.google.com/solutions/ai",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "GojiberryAI",
+      "description": "AI sales agents that detect buyer intent signals across 30+ data sources, score prospects against your ideal customer profile, and launch personalized LinkedIn outreach to book demos on autopilot. Users report 3-5x reply rates.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://gojiberry.ai",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Salesforce Healthcare AI Agents",
+      "description": "Six new agentic AI tools for the medical industry covering epidemiology analysis, referral management, infectious disease pattern detection, hospital staffing optimization, and a mobile app that works offline for rural healthcare providers.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.salesforce.com/healthcare",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "GLM-5",
+      "description": "Zhipu AI's open-source frontier model released under MIT license with performance rivaling GPT-5.2. At $1.00/$3.20 per million tokens, it's the most compelling open-source value play — breaking into the top 5 global model rankings.",
+      "category": "ai-chatbot",
+      "platforms": ["web"],
+      "url": "https://open.bigmodel.cn",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Google Pixel Drop — Circle to Search 2.0",
+      "description": "Google's March Pixel Drop brings major upgrades: Circle to Search now identifies every object in an image simultaneously, and Gemini can handle complex multi-step tasks like ordering groceries and finding restaurant recommendations.",
+      "category": "mobile-app",
+      "platforms": ["android"],
+      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Solaris World Model",
+      "description": "The world's first multi-person interactive video world model, enabling real-time multi-player environments generated entirely by AI. A breakthrough from single-view generation to persistent, navigable 3D worlds.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://solaris-world-model.github.io",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
