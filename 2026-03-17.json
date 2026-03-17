@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-17",
+  "updates": [
+    {
+      "name": "Genspark Claw",
+      "description": "Genspark's first 'AI Employee' — a cloud-hosted agent that operates its own dedicated computer on your behalf. Delegate tasks via WhatsApp, Slack, or Teams and it executes multi-step workflows independently with full data isolation. No setup or API keys required.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.genspark.ai",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Viktor by Zeta Labs",
+      "description": "An autonomous AI coworker that lives in Slack and Microsoft Teams. It has its own cloud computer, connects to 3,000+ tools (Salesforce, HubSpot, GitHub, Notion), and proactively suggests automations by observing how your team works. Backed by Daniel Gross and Nat Friedman.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://getviktor.com",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Helios (ByteDance / Peking University / Canva)",
+      "description": "The first 14B video model to hit real-time generation — 19.5 FPS on a single H100 GPU for 60-second videos. Supports text-to-video, image-to-video, and video-to-video. Fully open-source under Apache 2.0 with three model variants.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://huggingface.co/papers/2603.04379",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "LTX 2.3 by Lightricks",
+      "description": "Open-source 22B-parameter video generation model producing native 4K video at 50 FPS with built-in audio synchronization, portrait 9:16 support, and a desktop video editor for local generation on consumer hardware. Apache 2.0 license.",
+      "category": "ai-image-video",
+      "platforms": ["web", "mac", "windows"],
+      "url": "https://ltx.io",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Baidu DuClaw",
+      "description": "Zero-deployment access to OpenClaw AI agents directly in your browser — no installation, configuration, or API keys. Comes preloaded with Baidu Search, Scholar, and supports DeepSeek, Kimi-K2.5, and GLM-5 models out of the box.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://cloud.baidu.com",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "DeerFlow 2.0 (ByteDance)",
+      "description": "Open-source SuperAgent framework that can research, code, and create using sandboxes, persistent memory, tools, skills, and subagents. Handles tasks ranging from minutes to hours, acting as a fully autonomous project worker.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://github.com/bytedance/deerflow",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "DynamicLake Pro",
+      "description": "Brings iPhone's Dynamic Island to any Mac with interactive notifications, music controls, weather, calendar, and multi-app messaging (iMessage, WhatsApp, Slack, Telegram). New update adds gesture-driven notifications and multi-file DynaDrop conversions.",
+      "category": "web-app",
+      "platforms": ["mac"],
+      "url": "https://www.dynamiclake.com",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "NousResearch Hermes Agent",
+      "description": "An adaptive AI agent that evolves alongside its user — learning preferences, building context over time, and growing more useful the longer you work with it. Open-source and trending on GitHub.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Alibaba Page Agent",
+      "description": "A JavaScript-based in-page GUI agent that lets you control any web interface using natural language. Paste it into your browser and tell it what to do — it clicks, types, navigates, and extracts data from any website.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://github.com/nicepkg/page-agent",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Apple Siri AI Overhaul (iOS 26.4)",
+      "description": "Apple's completely reimagined, AI-powered Siri rolling out with iOS 26.4 this month. Powered by Google's 1.2T-parameter Gemini model, the new Siri handles multi-step tasks like ordering groceries, booking restaurants, and managing complex workflows.",
+      "category": "ai-chatbot",
+      "platforms": ["ios"],
+      "url": "https://www.apple.com/siri/",
+      "isFree": true,
+      "trending": true
+    }
+  ]
+}
