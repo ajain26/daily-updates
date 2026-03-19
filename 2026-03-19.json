@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-19",
+  "updates": [
+    {
+      "name": "Perplexity Comet AI Browser (iOS)",
+      "description": "Perplexity's AI-powered browser lands on iPhone with a built-in Comet Assistant that can interpret webpages, summarize articles, and complete multi-step tasks hands-free via voice mode. Choose from models by OpenAI, Anthropic, Meta, and more.",
+      "category": "ai-productivity",
+      "platforms": ["ios", "mac", "windows", "android"],
+      "url": "https://perplexity.ai/comet",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Manus Desktop App",
+      "description": "Meta's autonomous AI agent Manus launches a desktop app, bringing its powerful multi-step task execution directly to personal computers. Previously cloud-only, the desktop version runs locally and can interact with your files, apps, and browser.",
+      "category": "ai-productivity",
+      "platforms": ["mac", "windows"],
+      "url": "https://manus.ai",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "CorridorKey",
+      "description": "Open-source AI chroma keying tool from Corridor Digital's Niko Pueringer that uses neural networks to perfectly extract foreground from green screen footage, handling hair, motion blur, and translucency that stumps traditional keyers. 5,000+ GitHub stars in two weeks.",
+      "category": "ai-image-video",
+      "platforms": ["mac", "windows"],
+      "url": "https://github.com/nikopueringer/CorridorKey",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "LTX Desktop",
+      "description": "The first free, open-source, locally-running AI video editor built on the 20.9B-parameter LTX-2.3 model. Generate text-to-video, image-to-video, and audio-to-video entirely on your GPU with no cloud dependency. Full NLE timeline included.",
+      "category": "ai-image-video",
+      "platforms": ["windows"],
+      "url": "https://ltx.io/ltx-desktop",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Spacelift Intelligence",
+      "description": "AI-native infrastructure management suite that embeds natural-language AI directly into DevOps workflows. Spacelift Intent lets you deploy infrastructure by describing what you want in plain English, while the AI assistant understands your stacks, state, and runs.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://spacelift.io/blog/introducing-spacelift-intelligence",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Hunter Alpha (Mystery AI Model)",
+      "description": "A powerful anonymous AI model appeared on OpenRouter on March 11, sparking speculation it's DeepSeek's next-gen system. It describes itself as a Chinese-trained model and has been outperforming established models in developer tests. Free to try on OpenRouter.",
+      "category": "ai-chatbot",
+      "platforms": ["web"],
+      "url": "https://openrouter.ai",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Magic Hour",
+      "description": "All-in-one AI creation suite combining text-to-video, image-to-video, face swap, lip sync, AI image editing, and upscaling in one platform. Compare outputs from different AI models side-by-side. Y Combinator-backed with a generous free tier.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://magichour.ai",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "EY.ai PDLC",
+      "description": "Ernst & Young's AI-native software delivery platform, powered by 8090's Software Factory, replaces linear development with a dynamic AI-driven model that compresses idea-to-production timelines from months to days.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://www.ey.com/en_us/newsroom/2026/03/ernst-young-llp-and-8090-launch-ey-ai-pdlc",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Google Pixel March Drop (Gemini Agent Features)",
+      "description": "Google's March Pixel Drop brings agentic Gemini that can order groceries, book rides, and reorder coffee through your apps. Circle to Search now identifies every item in an image with a virtual try-on feature. Magic Cue surfaces AI suggestions mid-conversation.",
+      "category": "ai-productivity",
+      "platforms": ["android"],
+      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "ChatLab March 2026 Update",
+      "description": "ChatLab rolls out Email Copilot for AI-assisted email drafting, a new security filter for safer chatbot interactions, and integrations with Gemini 3 Pro Preview. A solid upgrade for teams running customer-facing AI chatbots.",
+      "category": "ai-chatbot",
+      "platforms": ["web"],
+      "url": "https://www.chatlab.com/blog/march-2026-updates/",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
