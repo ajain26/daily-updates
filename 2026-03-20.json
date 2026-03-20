@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-20",
+  "updates": [
+    {
+      "name": "Stitch 2.0 by Google",
+      "description": "Google's AI-native design canvas now features an infinite canvas, a design agent that reasons across your entire project, multi-screen generation (up to 5 at once), voice controls, and instant prototyping. It caused Figma's stock to drop 8.8% on announcement day.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://stitch.withgoogle.com",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Perplexity Computer Skills",
+      "description": "Perplexity Computer now supports reusable Skills — markdown-based instruction sets that teach the AI your workflows once and it remembers forever. Skills auto-load based on your query and can be combined for complex tasks.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.perplexity.ai/changelog/what-we-shipped---march-6-2026",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Google Flow Redesign",
+      "description": "Google Flow absorbed Whisk and ImageFX into one unified workspace for AI image generation, editing, and video animation. Users have created over 1.5 billion images and videos since launch, and the new interface puts generation front and center.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://flow.google",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Augment Code Intent",
+      "description": "A standalone macOS desktop AI coding workspace with multi-agent orchestration. Goes beyond IDE extensions by coordinating multiple AI agents for larger coding workflows across entire repositories.",
+      "category": "ai-coding",
+      "platforms": ["mac"],
+      "url": "https://www.augmentcode.com",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Perplexity Model Council",
+      "description": "Run GPT-5.4, Claude Opus 4.6, and Gemini 3.1 Pro simultaneously on the same query. See where the models agree, disagree, and what each uniquely contributes — a novel approach to multi-model reasoning.",
+      "category": "ai-chatbot",
+      "platforms": ["web"],
+      "url": "https://www.perplexity.ai",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "TestSprite 2.1",
+      "description": "Agentic testing platform for AI-native development teams. Automates test generation and execution using AI agents, trending at #1 on Product Hunt this month with 451 upvotes.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://www.testsprite.com",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Google Pixel March Drop — Gemini Task Agents",
+      "description": "Gemini on Pixel can now handle real-world tasks in the background — ordering groceries, booking rideshares, and finding restaurants based on your text conversations via the new Magic Cue feature.",
+      "category": "ai-productivity",
+      "platforms": ["android"],
+      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Solaris",
+      "description": "The world's first multi-person video world model, enabling interactive multi-player video environments. A major step from single-view generation to collaborative virtual scenes.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://solaris-model.github.io",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Aident AI Beta 2",
+      "description": "Open-world automations managed in plain English. Build complex workflows without code — just describe what you want in natural language and the AI agent handles execution. Trending on Product Hunt with 426 upvotes.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.aident.ai",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "NVIDIA LTX Video + ComfyUI for RTX",
+      "description": "NVIDIA partnered with ComfyUI to streamline local AI video generation for game developers and creators on RTX hardware. Run high-quality video generation entirely on your own GPU — no cloud required.",
+      "category": "ai-image-video",
+      "platforms": ["windows"],
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-flux-ltx-video-comfyui-gdc/",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
