@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-21",
+  "updates": [
+    {
+      "name": "Adobe Firefly Custom Models",
+      "description": "Train Adobe's AI on your own images to replicate your unique art style, character designs, or photographic look. Upload 10-30 images and Firefly creates a reusable model that preserves your stroke weight, color palettes, and lighting across generations.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://www.adobe.com/products/firefly.html",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Google Flow Unified Workspace",
+      "description": "Google merged ImageFX and Whisk into Flow, creating a single AI creative studio for image generation, video creation, and editing. Now includes a timeline editor for trimming and sequencing clips, powered by Veo 3 and Nano Banana 2.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://labs.google/flow",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "LTX Desktop",
+      "description": "Free, open-source AI video editor that runs fully locally on your GPU. Combines a non-linear editor with on-device text-to-video, image-to-video, and audio-to-video generation. Imports timelines from Premiere Pro, DaVinci Resolve, and Final Cut Pro.",
+      "category": "ai-image-video",
+      "platforms": ["windows", "mac"],
+      "url": "https://ltx.io/ltx-desktop",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "World AgentKit",
+      "description": "Verification tool from Sam Altman's World that confirms a real human is behind AI shopping agents. Uses iris-scan-based World ID and integrates with Coinbase's x402 protocol to prevent bot fraud in agentic commerce.",
+      "category": "web-app",
+      "platforms": ["web"],
+      "url": "https://world.org",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Perplexity Computer",
+      "description": "A unified AI workspace that orchestrates 19 models in parallel — including GPT-5.4, Claude Opus 4.6, and Gemini 3.1 Pro — to plan, delegate, and complete complex projects from a single conversation. Personal Computer runs 24/7 on a Mac mini.",
+      "category": "ai-productivity",
+      "platforms": ["web", "mac"],
+      "url": "https://www.perplexity.ai",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "ChatGPT for Excel",
+      "description": "OpenAI's Excel add-in powered by GPT-5.4 lets you build financial models, trace formula errors, and run scenario analysis through natural conversation inside your workbook. Scores 87% on spreadsheet modeling benchmarks.",
+      "category": "ai-productivity",
+      "platforms": ["windows", "mac"],
+      "url": "https://chatgpt.com/apps/spreadsheets/",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Microsoft Zero Trust for AI",
+      "description": "New security framework and assessment tool for organizations deploying AI. Adds an AI pillar to Microsoft's Zero Trust architecture with practical guidance, reference architecture, and a self-assessment tool arriving summer 2026.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Grok Imagine Components",
+      "description": "xAI's latest update lets you use up to 7 reference images when generating images and video via the @ symbol in prompts. Combined with video extension chaining, it's becoming a serious creative tool for multi-reference AI generation.",
+      "category": "ai-image-video",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://x.ai/grok",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "Open-source agentic skills framework written in Shell that makes composing AI agent behavior unusually accessible — no heavy Python boilerplate needed. A new approach to software development methodology with AI agents.",
+      "category": "ai-coding",
+      "platforms": ["mac", "windows"],
+      "url": "https://github.com/obra/superpowers",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "AutoResearchClaw",
+      "description": "Fully autonomous research tool that takes an idea and produces a complete research paper — from literature review to methodology to findings. A powerful Python-based tool for academic and applied research workflows.",
+      "category": "ai-productivity",
+      "platforms": ["web", "mac", "windows"],
+      "url": "https://github.com/AutoResearchClaw/AutoResearchClaw",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
