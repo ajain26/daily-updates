@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-22",
+  "updates": [
+    {
+      "name": "Adobe Firefly Custom Models + Project Moonlight",
+      "description": "Adobe opened its Firefly Custom Models public beta, letting creators train reusable AI models on their own images to preserve their unique style. Also introduced Project Moonlight, an agentic AI assistant across Photoshop, Express, and Acrobat that turns conversational prompts into creative actions. Firefly now hosts 30+ AI models from Adobe, Google, OpenAI, Runway, and Kling in one platform.",
+      "category": "ai-image-video",
+      "platforms": ["web", "mac", "windows"],
+      "url": "https://blog.adobe.com/en/publish/2026/03/19/adobe-firefly-expands-video-image-creation-with-new-ai-capabilities-custom-models",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "NVIDIA ComfyUI App View + RTX Video Super Resolution",
+      "description": "Announced at GDC 2026, ComfyUI gets a new simplified App View interface plus RTX Video Super Resolution as a native node — upscaling AI-generated video to 4K up to 30x faster than local alternatives. NVFP4 model optimizations deliver 2.5x faster performance with 60% less VRAM on RTX 50 Series GPUs.",
+      "category": "ai-image-video",
+      "platforms": ["windows"],
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-flux-ltx-video-comfyui-gdc/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Manus Desktop App",
+      "description": "Meta-backed Manus launched a desktop application bringing its AI agent directly onto personal laptops. The 'My Computer' feature lets agents work with local files, tools, and applications — moving beyond cloud-only execution to handle real workflows on your machine.",
+      "category": "ai-productivity",
+      "platforms": ["mac", "windows"],
+      "url": "https://www.cnbc.com/2026/03/18/metas-manus-launches-desktop-app-to-bring-its-ai-agent-onto-personal-devices.html",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Google Pixel Drop — Magic Cue + Gemini Agentic Tasks",
+      "description": "Google's March Pixel Drop introduces Magic Cue, which proactively suggests Gemini actions while you text (like restaurant recommendations mid-conversation). Gemini can now autonomously order groceries, book rideshares, and reorder coffee in the background. Now Playing also becomes a standalone music discovery app.",
+      "category": "ai-productivity",
+      "platforms": ["android"],
+      "url": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "GStack",
+      "description": "Y Combinator CEO Garry Tan's open-source Claude Code workflow that turns a single AI assistant into a structured development team with 9 role-based slash commands for planning, code review, QA, and shipping. Hit 20K GitHub stars and sparked major debate about AI-assisted development productivity.",
+      "category": "ai-coding",
+      "platforms": ["mac", "windows"],
+      "url": "https://gstacks.org/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Stanford OpenJarvis",
+      "description": "An open-source, local-first framework for building on-device personal AI agents. Runs entirely on your hardware with zero cloud dependency — your data never leaves your machine. Supports email sorting, morning briefings, document search, and messaging app integration across NVIDIA, AMD, and Apple Silicon.",
+      "category": "ai-productivity",
+      "platforms": ["mac", "windows"],
+      "url": "https://scalingintelligence.stanford.edu/blogs/openjarvis/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Picsart AI Agent Marketplace",
+      "description": "Picsart launched a marketplace where creators can 'hire' specialized AI agents for tasks like product photo editing, content resizing, and visual remixing. Agents like Flair integrate with Shopify and can be chatted with on WhatsApp/Telegram. Users set autonomy levels to control how much the AI does independently.",
+      "category": "ai-image-video",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Baidu DuClaw",
+      "description": "Baidu's zero-deployment cloud service that lets anyone run OpenClaw AI agents directly in a browser — no installation, no API keys, no server configuration. Comes with built-in Baidu Search and Scholar skills, and supports DeepSeek, Kimi-K2.5, and GLM-5 models.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://aicost.org/blog/baidu-duclaw-complete-guide",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "ChatGPT Interactive Visual Explanations",
+      "description": "OpenAI added dynamic, interactive visual explanations to ChatGPT for 70+ math and science topics. Adjust variables like triangle sides or spring constants and watch formulas update in real time. Available to all users, free and paid — a major shift from answer-delivery to concept exploration.",
+      "category": "ai-chatbot",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Alibaba Wukong Agent Platform",
+      "description": "Alibaba launched Wukong, an enterprise agentic AI platform built on the Qwen model and integrated with DingTalk. Manages multiple AI agents that handle document editing, approvals, and research workflows, with planned integrations into Taobao and Alipay.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/alibaba-creates-ai-tool-for-companies-to-ride-china-agent-craze",
+      "isFree": false,
+      "trending": false
+    }
+  ]
+}
