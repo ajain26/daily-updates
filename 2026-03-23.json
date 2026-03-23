@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-23",
+  "updates": [
+    {
+      "name": "Google Stitch Redesign — Vibe Design + Voice Canvas",
+      "description": "Google completely redesigned its Stitch AI design tool with an infinite canvas, Voice Canvas for spoken design direction, and 'Vibe Design' that generates UI from business goals instead of wireframes. Free during beta with 350 standard generations/month. Now integrates with Claude Code, Cursor, and Gemini CLI via a new SDK and MCP server.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://stitch.withgoogle.com/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Augment Code Intent",
+      "description": "A standalone macOS desktop app that replaces the traditional IDE with spec-driven AI orchestration. A Coordinator agent reads your codebase and decomposes specs into tasks, then up to six specialist agents — Investigate, Implement, Verify, Critique, Debug, and Code Review — execute in parallel on separate branches. Currently in public beta.",
+      "category": "ai-coding",
+      "platforms": ["mac"],
+      "url": "https://www.augmentcode.com/product/intent",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Sora 2 Video API",
+      "description": "OpenAI launched the Sora 2 Video API for developers with custom reusable characters and objects, video continuation for extending scenes, clips up to 20 seconds in 16:9 and 9:16, and batch generation. Finally solves the character consistency problem that has plagued AI video generation.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://openai.com/index/sora-2/",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Canva Magic Layers",
+      "description": "Canva's new AI feature that transforms flat or AI-generated images into fully editable, multi-layered designs. It identifies individual elements, separates them into movable objects, restores text as editable fields, and preserves layout relationships — powered by Canva's proprietary Design Model. Available free to all users in public beta.",
+      "category": "ai-image-video",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://www.canva.com/newsroom/news/magic-layers/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Gemini Personal Intelligence (Free Tier)",
+      "description": "Google expanded Gemini Personal Intelligence to all free US users, giving the AI access to your Gmail, Photos, Docs, and YouTube history for deeply personalized responses. Previously locked behind the $20/month Gemini Advanced subscription, this makes contextual AI assistance accessible to everyone.",
+      "category": "ai-chatbot",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://www.macrumors.com/2026/03/17/gemini-personal-intelligence/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "LTX-2.3 + LTX Desktop",
+      "description": "Lightricks released LTX-2.3, a 22B-parameter open-source model generating native 4K video at 50 FPS with synchronized audio and portrait mode. Accompanied by LTX Desktop, a fully local open-source video editor that runs the entire model on consumer hardware. Apache 2.0 license with quantized versions for consumer GPUs.",
+      "category": "ai-image-video",
+      "platforms": ["mac", "windows"],
+      "url": "https://github.com/Lightricks/LTX-Video",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Helios",
+      "description": "A 14B-parameter open-source video model from ByteDance and Peking University that generates minute-long clips at 19.5 FPS on a single GPU — the first model of this size to hit real-time speed. Supports text-to-video, image-to-video, and video-to-video with no KV-cache or quantization tricks. Apache 2.0 license.",
+      "category": "ai-image-video",
+      "platforms": ["web", "mac", "windows"],
+      "url": "https://github.com/PKU-YuanGroup/Helios",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Rebel Audio",
+      "description": "An AI-powered podcast creation platform aimed at first-time creators. Upload any audio/video file and chat with an AI agent to generate titles, descriptions, cover art, social clips, and host-read ads. Can translate episodes into other languages with AI voice cloning. Backed by $3.8M in funding and advised by Mark Burnett.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.rebelaudio.ai/",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "NVIDIA Agent Toolkit + OpenShell",
+      "description": "Announced at GTC 2026, an open-source platform for building enterprise AI agents combining Nemotron reasoning models, AI-Q knowledge blueprint, and OpenShell runtime with security guardrails. Routes complex tasks to frontier models while delegating research to open models, cutting costs 50%+. Adopted by Adobe, Salesforce, SAP, and 14 other enterprise partners.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://nvidianews.nvidia.com/news/ai-agents",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Google Workspace Gemini for Docs, Sheets & Slides",
+      "description": "Google rolled out new Gemini AI capabilities across Workspace: generate fully formatted drafts in Docs, auto-create spreadsheets in Sheets, and build complete slide decks in Slides — all from natural language prompts pulling context from your Gmail, Chat, and Drive. Teams can create reusable one-click 'skills' for recurring tasks.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+      "isFree": false,
+      "trending": false
+    }
+  ]
+}
