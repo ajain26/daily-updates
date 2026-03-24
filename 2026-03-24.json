@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-24",
+  "updates": [
+    {
+      "name": "OpenAI Superapp (ChatGPT + Codex + Atlas)",
+      "description": "OpenAI is merging ChatGPT, its Codex coding agent, and the Atlas web browser into a single desktop superapp. Announced March 20, this consolidation aims to create one unified AI workspace that can chat, code, browse, and automate tasks on your computer.",
+      "category": "ai-productivity",
+      "platforms": ["mac"],
+      "url": "https://www.macrumors.com/2026/03/20/openai-super-app-in-development-chatgpt/",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Meta Manus Desktop (My Computer)",
+      "description": "Meta's Manus AI agent now runs locally on Mac and Windows via a new 'My Computer' feature. It can read, edit, and manage local files and control desktop apps autonomously — marking a major shift from cloud-only AI agents to on-device automation.",
+      "category": "ai-productivity",
+      "platforms": ["mac", "windows"],
+      "url": "https://www.cnbc.com/2026/03/18/metas-manus-launches-desktop-app-to-bring-its-ai-agent-onto-personal-devices.html",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Microsoft Copilot Cowork (Wave 3)",
+      "description": "Microsoft's Wave 3 update brings 'Work IQ' and agentic Copilot capabilities to Word, Excel, PowerPoint, and Outlook. Built in collaboration with Anthropic, Copilot Cowork lets AI agents autonomously handle complex multi-step tasks across your Microsoft 365 apps.",
+      "category": "ai-productivity",
+      "platforms": ["web", "windows", "mac"],
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "GStack",
+      "description": "Open-source Claude Code workflow by YC's Garry Tan that turns AI into a structured dev team with slash commands for planning, code review, QA, shipping, and browser testing. Hit 10K GitHub stars in 48 hours — Tan reports averaging 10K lines of code per week with it.",
+      "category": "ai-coding",
+      "platforms": ["mac", "windows"],
+      "url": "https://gstacks.org/",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Alibaba Wukong",
+      "description": "Alibaba's new enterprise AI agent platform coordinates multiple agents through a single interface for document editing, approvals, meeting transcription, and research. Integrates with DingTalk now, with Slack and Teams support coming soon.",
+      "category": "ai-productivity",
+      "platforms": ["web", "mac", "windows"],
+      "url": "https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "LTX-2.3",
+      "description": "Lightricks' open-source 22B-parameter video model generates native 4K video at 50 FPS with synchronized audio in a single pass. Supports up to 20-second clips, portrait mode, and runs locally on consumer hardware. Released under Apache 2.0.",
+      "category": "ai-image-video",
+      "platforms": ["mac", "windows"],
+      "url": "https://github.com/Lightricks/LTX-2",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Luma Agents",
+      "description": "Luma's new AI agents handle end-to-end creative production across text, images, video, and audio, powered by the Uni-1 unified multimodal model. Already adopted by agencies like Publicis Groupe and brands like Adidas.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://lumalabs.ai/",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Helios (ByteDance + Peking University + Canva)",
+      "description": "A 14B-parameter autoregressive diffusion model for text-to-video, image-to-video, and video-to-video tasks. Open-sourced under Apache 2.0, it represents a strong collaboration between academia and industry for accessible video generation.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Perplexity Personal Computer",
+      "description": "Perplexity introduced a Mac mini-based hardware device designed to run continuously as your always-on digital AI assistant. It's a dedicated physical computer for AI-first workflows — a bold bet on AI hardware.",
+      "category": "ai-chatbot",
+      "platforms": ["mac"],
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Baidu Browser Agents",
+      "description": "Baidu built a system to run AI agents instantly in any browser with zero setup — no servers, no API keys, no installation. Just open a tab and deploy an agent. A remarkably frictionless approach to agentic AI.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://medium.com/synthetic-futures/four-ai-tools-that-just-changed-whats-possible-in-march-2026-a20d5df46341",
+      "isFree": true,
+      "trending": false
+    }
+  ]
+}
