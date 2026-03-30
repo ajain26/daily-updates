@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-30",
+  "updates": [
+    {
+      "name": "Dreamina Seedance 2.0 in CapCut",
+      "description": "ByteDance's next-gen AI video generation model now integrated directly into CapCut. Creates clips up to 15 seconds from prompts, images, or reference videos across six aspect ratios — bringing studio-grade generative video to a mass-market editing app.",
+      "category": "ai-image-video",
+      "platforms": ["web", "ios", "android", "mac", "windows"],
+      "url": "https://dreamina.capcut.com/tools/seedance-2-0",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Manus Desktop (My Computer)",
+      "description": "Meta-owned Manus launched a desktop app that lets its AI agent operate directly on your Mac or Windows PC — reading files, launching apps, and automating workflows locally instead of in the cloud. A major shift toward on-device AI agents.",
+      "category": "ai-productivity",
+      "platforms": ["mac", "windows"],
+      "url": "https://manus.im",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Adobe Firefly Custom Models",
+      "description": "Now in public beta, Firefly Custom Models let you train an AI image generator on 10-30 of your own images to capture your specific style, characters, or photographic look — then generate new images that stay true to your aesthetic.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://www.adobe.com/products/firefly.html",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Picsart AI Agent Marketplace",
+      "description": "A marketplace where creators can 'hire' specialized AI agents — Flair for Shopify optimization, Resize Pro for smart content resizing, Remix for style transfer, and Swap for batch background changes. Chat with agents via WhatsApp or Telegram.",
+      "category": "ai-productivity",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://picsart.com",
+      "isFree": false,
+      "trending": false
+    },
+    {
+      "name": "Amazon Health AI",
+      "description": "Amazon's agentic health assistant is now rolling out on Amazon.com and the mobile app. It interprets lab results, answers health questions, manages prescriptions, and books appointments — free for Prime members with up to five provider consultations included.",
+      "category": "web-app",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Google Gemini Code Assist (Free)",
+      "description": "Google made Gemini Code Assist completely free for individual developers. It generates infrastructure code, Cloud Run deployments, and BigQuery queries with deep contextual understanding that goes well beyond generic code completion.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://cloud.google.com/gemini/docs/codeassist/overview",
+      "isFree": true,
+      "trending": true
+    },
+    {
+      "name": "Gemini 3 Deep Think",
+      "description": "Google's advanced reasoning model is now live in the Gemini app for Ultra subscribers, with early API access for researchers and engineers. Built for hard technical problems in science and engineering, not casual chat.",
+      "category": "ai-chatbot",
+      "platforms": ["web", "ios", "android"],
+      "url": "https://gemini.google.com",
+      "isFree": false,
+      "trending": true
+    },
+    {
+      "name": "Suno v5.5",
+      "description": "The latest update to Suno's AI music platform brings improved audio quality, better song structure, and enhanced creative control. Makes it even easier to generate full, polished tracks from text prompts.",
+      "category": "ai-image-video",
+      "platforms": ["web"],
+      "url": "https://suno.com",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "NVIDIA Agent Toolkit",
+      "description": "An open platform for building autonomous AI agents capable of reasoning, acting, and completing complex enterprise tasks. Designed for developers who want to create agents that can plan, execute, and iterate on multi-step workflows.",
+      "category": "ai-coding",
+      "platforms": ["web"],
+      "url": "https://developer.nvidia.com",
+      "isFree": true,
+      "trending": false
+    },
+    {
+      "name": "Alibaba Wukong",
+      "description": "An enterprise AI platform for managing multiple agents that handle document editing, approvals, and research workflows. Integrates with messaging platforms and enterprise tools to orchestrate complex multi-agent business processes.",
+      "category": "ai-productivity",
+      "platforms": ["web"],
+      "url": "https://www.alibabacloud.com",
+      "isFree": false,
+      "trending": false
+    }
+  ]
+}
